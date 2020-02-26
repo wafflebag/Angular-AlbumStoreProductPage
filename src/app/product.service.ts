@@ -1,10 +1,10 @@
 import { Injectable } from '@angular/core';
 
-//import  {Http, Response } from '@angular/common/http';
-import { Http, Response } from '@angular/http';
-//import { HttpClient } from '@angular/common/http';
+import  {Http, Response } from '@angular/common/http';
+//import { Http, Response } from '@angular/http';
+import { HttpClient } from '@angular/common/http';
 
-//import 'rxja/add/operator/map';
+import 'rxja/add/operator/map';
 
 @Injectable({
   providedIn: 'root'
